@@ -1,0 +1,5 @@
+export const CHANGE_LOADER = 'CHANGE_LOADER';
+export const LOGGIN = 'LOGGIN';
+export const CHANGE_CONTENT_MODAL = 'CHANGE_CONTENT_MODAL';
+export const CHANGE_SHOW_MODAL = 'CHANGE_SHOW_MODAL';
+export const UPLOAD_FILES = 'UPLOAD_FILES';
